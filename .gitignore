@@ -181,6 +181,11 @@ DocProject/Help/*.hhp
 DocProject/Help/Html2
 DocProject/Help/html
 
+# Other code editor
+
+.idea/
+.vscode
+
 # Click-Once directory
 publish/
 
